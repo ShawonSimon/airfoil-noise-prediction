@@ -19,4 +19,4 @@ Key steps in this project include the following:
 5. **Model Evaluation**: Evaluate the model using Mean Squared Error (MSE), Mean Absolute Error (MAE), and R-squared (R2) metrics.
 6. **Model Saving**: Save the trained model for future use.
 
-This project was done as part of the [IBM Data Engineering specialization](https://www.coursera.org/professional-certificates/ibm-data-engineer) Feel free to implement this project on your own, Cheers!!!
+This project was done as part of the [IBM Data Engineering specialization](https://www.coursera.org/professional-certificates/ibm-data-engineer), Feel free to implement this project on your own, Cheers!!!
